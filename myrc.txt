@@ -1,0 +1,8 @@
+USER: hp
+HOSTNAME: -HPneerja-
+DIR: /home/hp
+mp4:/usr/bin/vlc
+mp3:/usr/bin/vlc
+pdf:/usr/bin/evince
+txt:/usr/bin/subl
+cpp:/usr/bin/subl
